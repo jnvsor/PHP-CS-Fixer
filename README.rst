@@ -1063,7 +1063,7 @@ Choose from the list of available rules:
     ``['use_trait', 'constant_public', 'constant_protected',
     'constant_private', 'property_public', 'property_protected',
     'property_private', 'construct', 'destruct', 'magic', 'phpunit',
-    'method_public', 'method_protected', 'method_private']``
+    'method_public', 'method_protected', 'method_private']``. Other options include `public`, `protected`, `private`, `constant`, `property`, `property_static`, `property_public_static`, `property_protected_static`, `property_private_static`, `method`, `method_static`, `method_public_static`, `method_protected_static`, `method_private_static`
   - ``sortAlgorithm`` (``'alpha'``, ``'none'``): how multiple occurrences of same type
     statements should be sorted; defaults to ``'none'``
 
